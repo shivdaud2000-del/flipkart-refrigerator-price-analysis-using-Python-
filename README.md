@@ -63,6 +63,8 @@ This project provides insights into how brand, capacity, and ratings influence r
 Add more product categories
 Build a price prediction model
 Create an interactive dashboard
+
 📫 Contact
+
 Name: Shivranjani Daud 
 LinkedIn: www.linkedin.com/in/shivranjani-daud-ab4336238
