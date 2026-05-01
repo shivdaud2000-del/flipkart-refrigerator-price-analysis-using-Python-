@@ -73,11 +73,17 @@ The analysis helps in understanding market trends and provides meaningful busine
 # 🔍 Analysis Performed
 
 ✔️ Checked and handled missing values
+
 ✔️ Removed duplicate records
+
 ✔️ Converted data types for accurate analysis
+
 ✔️ Performed brand-wise price analysis
+
 ✔️ Conducted capacity vs price comparison
+
 ✔️ Analyzed ratings and review trends
+
 ✔️ Studied discount impact on pricing
 
 ---
@@ -125,17 +131,12 @@ This project demonstrates how Python-based data analysis can help uncover pricin
 
 ---
 
-# 📷 Dashboard / Output Preview
-
-*Add screenshots of your graphs and analysis here*
-
----
 
 # 👨‍💻 Author
 
 ## Shivranjani Daud
 
-📧 Email: Add your email here
+📧 Email: shivdaud2000@gmail.com
 
 🔗 LinkedIn:
 [www.linkedin.com/in/shivranjani-daud-ab4336238](http://www.linkedin.com/in/shivranjani-daud-ab4336238)
