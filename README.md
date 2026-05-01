@@ -11,10 +11,15 @@ The analysis helps in understanding market trends and provides meaningful busine
 # 🎯 Project Objectives
 
 ✅ Analyze refrigerator price distribution
+
 ✅ Compare refrigerator prices across brands
+
 ✅ Study the relationship between capacity and price
+
 ✅ Identify highly rated and budget-friendly products
+
 ✅ Understand the impact of discounts and ratings on pricing
+
 ✅ Generate meaningful business insights through data visualization
 
 ---
@@ -91,10 +96,15 @@ The analysis helps in understanding market trends and provides meaningful busine
 # 📊 Visualizations Included
 
 📈 Price Distribution Analysis
+
 📊 Brand-wise Price Comparison
+
 📉 Capacity vs Price Relationship
+
 ⭐ Product Rating Distribution
+
 💰 Discount Analysis
+
 📦 Brand Popularity Analysis
 
 ---
@@ -142,7 +152,7 @@ This project demonstrates how Python-based data analysis can help uncover pricin
 [www.linkedin.com/in/shivranjani-daud-ab4336238](http://www.linkedin.com/in/shivranjani-daud-ab4336238)
 
 💻 GitHub:
-Add your GitHub profile link here
+https://github.com/shivdaud2000-del
 
 ---
 
